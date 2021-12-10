@@ -11,9 +11,5 @@
   },
   "issueSettings": {
     "minSeverityLevel": "LOW"
-  },
-  "remediateSettings": {
-    "enableRenovate": false,
-    "commitMessagePrefix": "SNOW-471177"
   }
 }
